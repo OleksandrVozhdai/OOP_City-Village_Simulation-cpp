@@ -1,0 +1,90 @@
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\bin\Debug\net6.0\OOP_LAB4.exe
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\bin\Debug\net6.0\OOP_LAB4.deps.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\bin\Debug\net6.0\OOP_LAB4.runtimeconfig.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\bin\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\bin\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\OOP_LAB4.csproj.AssemblyReference.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\OOP_LAB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\OOP_LAB4.AssemblyInfoInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\OOP_LAB4.AssemblyInfo.cs
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\OOP_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\refint\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\OOP_LAB4.genruntimeconfig.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4\obj\Debug\net6.0\ref\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\bin\Debug\net6.0\OOP_LAB4.exe
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\bin\Debug\net6.0\OOP_LAB4.deps.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\bin\Debug\net6.0\OOP_LAB4.runtimeconfig.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\bin\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\bin\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\OOP_LAB4.csproj.AssemblyReference.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\OOP_LAB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\OOP_LAB4.AssemblyInfoInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\OOP_LAB4.AssemblyInfo.cs
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\OOP_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\refint\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\OOP_LAB4.genruntimeconfig.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія\obj\Debug\net6.0\ref\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\bin\Debug\net6.0\OOP_LAB4.exe
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\bin\Debug\net6.0\OOP_LAB4.deps.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\bin\Debug\net6.0\OOP_LAB4.runtimeconfig.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\bin\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\bin\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\OOP_LAB4.csproj.AssemblyReference.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\OOP_LAB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\OOP_LAB4.AssemblyInfoInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\OOP_LAB4.AssemblyInfo.cs
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\OOP_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\refint\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\OOP_LAB4.genruntimeconfig.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – копія – копія\obj\Debug\net6.0\ref\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\OOP_LAB4.csproj.AssemblyReference.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\OOP_LAB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\OOP_LAB4.AssemblyInfoInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\OOP_LAB4.AssemblyInfo.cs
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\OOP_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\refint\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\bin\Debug\net6.0\OOP_LAB4.exe
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\bin\Debug\net6.0\OOP_LAB4.deps.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\bin\Debug\net6.0\OOP_LAB4.runtimeconfig.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\bin\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\bin\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\OOP_LAB4.genruntimeconfig.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 3\obj\Debug\net6.0\ref\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.csproj.AssemblyReference.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.AssemblyInfoInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.AssemblyInfo.cs
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\refint\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.exe
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.deps.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.runtimeconfig.json
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.genruntimeconfig.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\OOP_LAB4 – ver 4\obj\Debug\net6.0\ref\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.exe
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.deps.json
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.runtimeconfig.json
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.csproj.AssemblyReference.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.AssemblyInfoInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.AssemblyInfo.cs
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\refint\OOP_LAB4.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_LAB4.genruntimeconfig.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\ref\OOP_LAB4.dll

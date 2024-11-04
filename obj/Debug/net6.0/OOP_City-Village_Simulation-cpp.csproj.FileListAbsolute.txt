@@ -1,0 +1,15 @@
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_City-Village_Simulation-cpp.exe
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_City-Village_Simulation-cpp.deps.json
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_City-Village_Simulation-cpp.runtimeconfig.json
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_City-Village_Simulation-cpp.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\bin\Debug\net6.0\OOP_City-Village_Simulation-cpp.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_City-Village_Simulation-cpp.csproj.AssemblyReference.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_City-Village_Simulation-cpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_City-Village_Simulation-cpp.AssemblyInfoInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_City-Village_Simulation-cpp.AssemblyInfo.cs
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_City-Village_Simulation-cpp.csproj.CoreCompileInputs.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_City-Village_Simulation-cpp.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\refint\OOP_City-Village_Simulation-cpp.dll
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_City-Village_Simulation-cpp.pdb
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\OOP_City-Village_Simulation-cpp.genruntimeconfig.cache
+C:\Users\Oleks\OneDrive\Рабочий стол\univer\OOP_LAB4 – ver 4\obj\Debug\net6.0\ref\OOP_City-Village_Simulation-cpp.dll
